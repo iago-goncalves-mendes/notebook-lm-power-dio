@@ -1,8 +1,12 @@
 # notebook-lm-power-dio
 A place where you can study Chinese (Mardarin) with confidence and discipline. You only need to make the first step.
+
 link to notebookLM: https://notebook.google.com/notebook/dde67998-46d5-4ad9-9494-6680654ae0d0
 
-curation of sources: file:///C:/Users/iagog/Downloads/Chines-Contemporaneo-Licao-12.pdf ; file:///C:/Users/iagog/Downloads/Basico2_1aPARTE_LIVRO%20DO%20ALUNO.pdf ; https://www.youtube.com/playlist?list=PLLD-rQdLK4I36gBOf-eWmXc4Is5DRUA2W (Playlist)
+curation of sources: 
+file:///C:/Users/iagog/Downloads/Chines-Contemporaneo-Licao-12.pdf ;
+file:///C:/Users/iagog/Downloads/Basico2_1aPARTE_LIVRO%20DO%20ALUNO.pdf ; 
+https://www.youtube.com/playlist?list=PLLD-rQdLK4I36gBOf-eWmXc4Is5DRUA2W (Playlist)
 
 1 - Mandarin Teacher
 Act as an experienced Mandarin Chinese teacher. Use only the information contained in my uploaded sources whenever possible.
